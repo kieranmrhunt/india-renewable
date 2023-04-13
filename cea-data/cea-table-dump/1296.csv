@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+Name of site,District,No. ofWindTurbines,SubTotal,Wind TurbineMake,CapacityKW perTurbine,Total CapacityMW,Sub Total
+Vaspeth,Sangli,18,,Global Wind,2500,45,
+,,10,Kenersys,2000,20,,
+,,10,Gamesa,850,8.5,,
+,,97,Regen,1500,145.500,,
+,,89,Gamesa,2000,178,,
+,,9,Suzlon Energy,2100,18.900,,
+,,14,Winwind,1000,14.000,,
+,,19,Inox Wind,2000,38.000,,
+,,14,NuPower,2050,28.700,,
+Sub-total (20),,280,,,,496.600,
+Gudepachgani,Sangli,8,,Enercon India,230,1.840,
+,,14,Enercon India,230,3.220,,
+,,12,Enercon India,600,7.200,,
+,,63,Enercon India,800,50.400,,
+,,32,Suzlon Energy,600,19.200,,
+,,24,NEG-Micon,1650,39.600,,
+,,8,Suzlon Energy,1500,12.000,,
+Sub-total (21),,161,,,,133.460,
+Dhalgaon,Sangli,14,,Enercon India,600,8.400,
+,,51,Suzlon Energy,600,30.600,,
+,,132,Suzlon Energy,1250,165.000,,
+,,49,Suzlon Energy,1500,73.500,,
+Sub-total (22),,246,,,,277.500,
+Bhud,Sangli,102,,Regen,1500,153.000,
+,,26,Vestas WindTech,1650,42.900,,
+,,3,GhodawatIndustries,1650,4.950,,
+,,5,Shriram EPC,250,1.250,,
+,,9,Inox Wind,2000,18.000,,
+,,11,Gamesa,2000,22.000,,
+Sub-total (23),,156,,,,242.100,
+Mendhegiri,Sangli,58,,Gamesa,850,49.3,
+2,Gamesa,2000,4,,,,
+2,Suzlon Energy,2100,4.2,,,,
+37,Inox Wind,2000,74,,,,

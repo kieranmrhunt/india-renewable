@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+Name of site,District,No. ofWindTurbines,SubTotal,Wind TurbineMake,CapacityKW perTurbine,Total CapacityMW,Sub Total
+Motha,Amarawati,2,,Suzlon Energy,1000,2.000,
+,,2,Winwind,1000,2.000,,
+Sub-total (42),,4,,,,4.000,
+Aundhewadi,Nashik,13,,Enercon India,800,10.400,
+,,28,Suzlon Energy,1500,42.000,,
+Sub-total (43),,,41,,,,52.400
+Ramoshiwadi &Godhewadi,Nashik,7,,Suzlon Energy,2100,14.700,
+Sub-total (44),,,7,,,,14.700
+Isapur,Yavatmal,20,,Regen,1500,30.000,
+Sub-total (45),,,20,,,,30.000
+Andhralake,Pune,133,,Enercon India,800,106.400,
+Sub-total (46),,133,,,,106.400,
+Anjanadi,Aurangabad,6,,Suzlon,2100,12.600,
+Sub-total (47),,6,,,,12.600,
+TOTAL,4492,,,4781.810,MW*,,
+*As on 31 Mar 2018,,,,,,,

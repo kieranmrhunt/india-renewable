@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+S.NO,Name of Plant,InstalledCapacity(MW),Type,Location,State,Date ofCommissioning
+23,"M/s. EID Parry (India) Ltd, Pettavaithalai",20.00,Bagasse,Dist Trichy,Tamilnadu,13-Jan-2010
+24,"M/s. Bannari Amman Sugars andChemicals Ltd, Kolundampattu Village",28.80,Bagasse,Kolundampattu Village,Tamilnadu,27-Jan-2010
+25,M/s. Dhanalakahmi Srinivasan SugarsPvt Ltd,25.00,Bagasse,Perumbalur Dist,Tamilnadu,25-Feb-2010
+26,M/s. Empee Sugars & Chemicals Ltd,50.00,Bagasse,Tirunelveli Dist,Tamilnadu,28-Apr-2010
+27,M/s. Mardras Sugars & Chemicals,25.00,Bagasse,Dist Villupuram,Tamilnadu,20-May-2011
+28,M/s.Ponni Sugars Limited,19.00,Bagasse,Dist Erode,Tamilnadu,17-Sep-2012
+29,M/s.Chengalrayan Co-Operative SugarMills,18.00,Bagasse,Dist Erode,Tamilnadu,17-Feb-2016
+30,M/s. Vellore Co-Operative Sugar Mills,15.00,Bagasse,Vellore,Tamilnadu,19-Jan-2017
+31,M/s. Cheyyar Co-Operative Sugar Mills,15.00,Bagasse,Dist Erode,Tamilnadu,31-Jan-2017
+32,"M/s.Arignar Anna Sugars Mills,",15.00,Bagasse,Thanjavore,Tamilnadu,4-Sep-2018
+33,M/s.Perambalur Sugar Mills,18.00,Bagasse,Pennadadam,Tamilnadu,18-Feb-2019
+,,,,,,

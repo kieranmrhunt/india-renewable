@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+S.NO,Name of Plant,InstalledCapacity (MW),Type,Location,State,Date ofCommissioning
+1,"M/s. GRT Firm, Pambur",10.00,Solar,Rammad Dist,Tamilnadu,6-Dec-2017
+2,M/s. GRT & Sons Pambur,10.00,Solar,Rammad Dist,Tamilnadu,6-Dec-2017
+3,"M/s. Dev International ,Kanur",1.00,Solar,Tirupur Dist,Tamilnadu,15-Feb-2017
+4,M/s. GRT Firm,10.00,Solar,Rammad Dist,Tamilnadu,14-Sep-2017
+5,M/s. GRT & Sons,10.00,Solar,Rammad Dist,Tamilnadu,14-Sep-2017
+6,"M/s. GRT Silverwares, Ramnad",10.00,Solar,Rammad Dist,Tamilnadu,14-Sep-2017
+7,M/s.Shapoorji Pallonji Infrastructure Company Pvt Ltd,50.00,Solar,Virudhunagar Dist,Tamilnadu,26-Sep-2018
+8,M/s. GRT Jewellers India Pvt Ltd,44.00,Solar,Virudhunagar Dist,Tamilnadu,27-Feb-2019
+TOTAL (MW),145.00,,,,,

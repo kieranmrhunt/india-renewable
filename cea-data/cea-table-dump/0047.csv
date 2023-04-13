@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+S.NO,Name of Plant,InstalledCapacity (MW),Type,Location (District),State,Date ofCommissioning
+117,M/s. ACME Biwadi Solar Power PvtLtd,50.00,solar,Dist Kadapa,Andhra Pradesh,1-Jul-2018
+118,India Oil Corporation,3.00,solar,Dist Kadapa,Andhra Pradesh,18-Jul-2018
+119,Waneep Solar Pvt Ltd,21.00,solar,Dist Chittor,Andhra Pradesh,2-Aug-2018
+120,Greater Visakhapatnam Smart CityCorporation Ltd,2.00,solar,Visakhapatnam,Andhra Pradesh,18-Aug-2018
+121,M/s. FRV Andhra Pradesh SolarFarm-I Pvt Ltd,50.00,solar,Dist Kadapa,Andhra Pradesh,29-Sep-2018
+122,"APGENCO, Hydel, Vidyut Soudha,Gunadala",250.00,solar,Dist Ananthapuramu,Andhra Pradesh,30-Dec-2018
+123,"APGENCO, Hydel, Vidyut Soudha,Gunadala",150.00,solar,Dist Ananthapuramu,Andhra Pradesh,12-Feb-2019
+123,Kadapa Ultra Mega Solar Park-SECI,250.00,Solar,"Mylavaram, Kadapa Dist.",Andhra Pradesh,1-Apr-2019
+1,Ananthapuramu Ultra Mega SolarPark I -NTPC,250.00,Solar,"NP Kunta, Ananthapuram",Andhra Pradesh,2019-20

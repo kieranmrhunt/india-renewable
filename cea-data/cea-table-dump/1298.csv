@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7
+Name of site,District,No. ofWindTurbines,SubTotal,Wind TurbineMake,CapacityKW perTurbine,Total CapacityMW,Sub Total
+Kavadya Dongar,A'Nagar,57,,Suzlon Energy,1000,57.000,
+,,6,Suzlon Energy,1250,7.500,,
+Sub-total (32),,63,,,,64.500,
+Panchpatta,A'nagar &Nashik,24,,Suzlon Energy,1500,36.000,
+,,65,Enercon India,800,52.000,,
+,,2,Suzlon Energy,2100,4.200,,
+,,55,Gamesa,850,46.750,,
+Sub-total (33),,,146,,,,138.950
+Khandke,A'nagar,192,,Enercon India,800,153.600,
+Sub-total (34),,192,,,,153.600,
+Nandurpathar,A'nagar,4,,Kenersys,2625,10.500,
+,,8,Kenersys,2400,19.200,,
+Sub-total (35),,12,,,,29.700,
+Sautada,Beed,52,,RRB Energy,600,31.200,
+,,32,Shriram-EPC,250,8.000,,
+Sub-total (36),,,84,,,,39.200
+Gangadevi,Beed,35,,Suzlon Energy,2100,73.500,
+Sub-total (37),,,35,,,,73.500
+Mirkala,Beed,40,,Gamesa,2000,80.000,
+Sub-total (38),,40,,,,80.000,
+Brahmanwel,Dhule,5,,Windia,600,3.000,
+,,4,Windia,750,3.000,,
+,,20,NEG-Micon,750,15.000,,
+,,23,NEG-Micon,1650,37.950,,
+,,16,Suzlon Energy,600,9.600,,
+,,377,Suzlon Energy,1250,471.250,,
+,,4,Suzlon Energy,1500,6.000,,
+,,1,Suzlon Energy,2100,2.100,,
+Sub-total (39),,,450,,,,547.900
+Jaibhim,Dhule,16,,Suzlon Energy,2100,33.6,
+Sub-total (40),,16,,,,33.600,
+Chakala,Nandurbar,154,,Suzlon Energy,1250,192.500,
+,66,Suzlon Energy,1500,99.000,,,
+,10,Suzlon Energy,2100,21.000,,,
+Sub-total (41),,230,,,,312.500,

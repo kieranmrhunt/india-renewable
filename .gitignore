@@ -1,0 +1,15 @@
+*.nc
+capacity/data/full_arrays/*.npy
+capacity/data/river-widths/
+capacity/data/tree_cover/
+capacity/data/lulc/
+kruitwagen/global_pv_inventory/predicted_set.geojson
+capacity/data/means/lulc.npy
+capacity/data/gpw-v4-population-density-rev11_totpop_15_min_nc.zip
+bsiso/
+cmip6/
+demand/
+energy-model-scripts/
+era5/
+s2s/
+capacity/data-for-export/
